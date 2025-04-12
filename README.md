@@ -74,7 +74,7 @@ Riešenie:
 - enum : slúži na definovanie farebných kódov pre rôzne výstupy.
 - tty a termios : sa používajú na čítanie klávesových vstupov bez potreby stlačenia Enteru.
 
-# Definícia triedy GridWorld
+# Trieda a funkcia
 
 ### Trieda GridWorld 
 -> Predstavuje mriežkový svet, v ktorom agent pohybuje vpred, prekonáva prekážky a snaží sa dostať k cieľu.
