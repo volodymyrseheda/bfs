@@ -65,6 +65,10 @@ python3 bfs.py
 
 Riešenie:
 
+## 🖼️ Screenshot
+
+![Príklad hry GridWorld](foto/image1.png)
+
 # Importované knižnice
 
 - sys a os sú : moduly na interakciu s operačným systémom, napríklad na čítanie vstupu.
@@ -74,7 +78,7 @@ Riešenie:
 - enum : slúži na definovanie farebných kódov pre rôzne výstupy.
 - tty a termios : sa používajú na čítanie klávesových vstupov bez potreby stlačenia Enteru.
 
-# Trieda a funkcia
+# Trieda a funkcie
 
 ### Trieda GridWorld 
 -> Predstavuje mriežkový svet, v ktorom agent pohybuje vpred, prekonáva prekážky a snaží sa dostať k cieľu.
@@ -128,6 +132,11 @@ world.start_auto_pilot()
 while True:
     world.render()
     world.move_agent()
+
+# Autori 
+Bc. Volodymyr Seheda	SjF	Priemyselná mechatronika	
+Bc. Maroš Drábik	    SjF	Priemyselná mechatronika	
+
 
 
 
