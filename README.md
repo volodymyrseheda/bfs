@@ -1,12 +1,10 @@
-# bfs
-Breadth-First Search (BFS) algorithm
+# Breadth-First Search (BFS) algorithm
 
 Tento kód je implementácia textovej hry "GridWorld", ktorá simuluje pohyb agenta v mriežke so slučkami, prekážkami a cieľovým bodom. Tento program využíva algoritmus BFS (Breadth-First Search) na automatické hľadanie cesty medzi agentom a cieľom.
 
 ===================================================================
 
-
-Vyriešiť problém:
+# Vyriešiť problém:
 
 8. Breadth-First Search (BFS) algorithms
 
@@ -15,7 +13,7 @@ b. najdenie trajektorie v grid world s prekážkami
 
 ===================================================================
 
-Simulácia BFS GridWorld 🎮
+# Simulácia BFS GridWorld 🎮
 Príklad GridWorld
 
 📖 Popis projektu
@@ -69,7 +67,7 @@ python3 bfs.py
 
 Riešenie:
 
-Importované knižnice
+# Importované knižnice
 
 - sys a os sú : moduly na interakciu s operačným systémom, napríklad na čítanie vstupu.
 - random : je použitý na generovanie náhodných prekážok.
@@ -78,7 +76,7 @@ Importované knižnice
 - enum : slúži na definovanie farebných kódov pre rôzne výstupy.
 - tty a termios : sa používajú na čítanie klávesových vstupov bez potreby stlačenia Enteru.
 
-Definícia triedy GridWorld
+# Definícia triedy GridWorld
 
 Trieda GridWorld predstavuje mriežkový svet, v ktorom agent pohybuje vpred, prekonáva prekážky a snaží sa dostať k cieľu.
 -> Táto funkcia inicializuje rozmery sveta (šírku a výšku mriežky) a nastaví hustotu prekážok.
@@ -107,7 +105,7 @@ Funkcia get_key:
 Funkcia main:
 -> main riadi celú hru, zobrazí mriežku, čaká na vstup používateľa a vykonáva pohyb agenta. Ak je zapnutý autopilot, agent sa pohybuje automaticky, inak reaguje na klávesové vstupy.
 
-🏆 Príklad použitia
+# 🏆 Príklad použitia
 
 from gridworld import GridWorld
 
