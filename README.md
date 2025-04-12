@@ -4,6 +4,7 @@ Breadth-First Search (BFS) algorithm
 Tento kód je implementácia textovej hry "GridWorld", ktorá simuluje pohyb agenta v mriežke so slučkami, prekážkami a cieľovým bodom. Tento program využíva algoritmus BFS (Breadth-First Search) na automatické hľadanie cesty medzi agentom a cieľom.
 
 ===================================================================
+
 Vyriešiť problém:
 
 8. Breadth-First Search (BFS) algorithms
