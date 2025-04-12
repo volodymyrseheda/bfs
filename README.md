@@ -134,8 +134,8 @@ while True:
     world.move_agent()
 
 # Autori 
-Bc. Volodymyr Seheda	SjF	Priemyselná mechatronika	
-Bc. Maroš Drábik	    SjF	Priemyselná mechatronika	
+Bc. Volodymyr Seheda	SjF	Priemyselná mechatronika.	
+Bc. Maroš Drábik	    SjF	Priemyselná mechatronika.	
 
 
 
